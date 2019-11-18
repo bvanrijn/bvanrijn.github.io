@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/grooveplex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://barend.me
+  * I am grooveplex (https://keybase.io/grooveplex) on keybase.
+  * I have a public key with fingerprint 30DB 79D1 084B 5C4F 5BCF  DB98 AAA5 F1F2 AFD1 2DE5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012ffe15eafadcc314d8348c06adcfacd01ff262afe39162960a62716a844b25210a",
+      "fingerprint": "30db79d1084b5c4f5bcfdb98aaa5f1f2afd12de5",
+      "host": "keybase.io",
+      "key_id": "aaa5f1f2afd12de5",
+      "kid": "01012ffe15eafadcc314d8348c06adcfacd01ff262afe39162960a62716a844b25210a",
+      "uid": "abcfd028e706a317680e93f7b3704319",
+      "username": "grooveplex"
+    },
+    "service": {
+      "hostname": "barend.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1574090894,
+  "expire_in": 157680000,
+  "prev": "ea77700723abb60ef85c4cf7f6ff369c819297b61dceead978f50032ee6d5e22",
+  "seqno": 62,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSFVBFL23zMhQxOpDULIxTeoiM+d9bg8iJLLSj+ojQ7nMOTNzPXo9
+53ru8aaIPxUlEgVGaUVSFoXkj5RhVKY97UHQgzCloDJ6UEjRRwVRc8z++mx+ZvZm
+rbXX3rNvpM8MpAWfHHeris51dgTvDXc0BKoeDexrBoZDmkC4GdTSqYvGCE14kVqL
+gDCACCKBMYpkihkmpikiiWiipJlQ4SHDJoGIMUERMKOijhRBVyBWBBUpWJMkQ5AF
+BDEIAWbZUerGXcv2uKwIiaHqBEFNMmRTYrJhMmLoGsZYZohxMYIEQmVOrHYSPoOb
+M3CCFlsOz/EgMmXvH/j/7LvhTx3fHxQ0qnK6iFRFg1QXmWqIKpREpPvABHVtXEc5
+Ouo6TpLGY7QRtIQAzyctk/qj9XuZxhjYpTYp5u8QiLuO55hOjKerPS+eCPs0rynu
+47ZTIzKtEDEsm/AxckaSugnLsUEYcaTpWb4kklUJ6lDTpRCgjXHLpRHLnkpzt/z4
+dWiSS1KsqiqEqiBiw1AgZRr/ApOpTGFMVHRTQ7qgq4aCiEkpJrqqMRlCUaBUITIV
+BOD3VG87IKwI3CeOcs2EFbWx1+BS0HJtqDIlEEwLpM6a4e9XIG1O5t+t25U6+2f2
+u7LcZTWbwh+a7Q1zKntJYqgn/9HiiRudZ1+f2mbLOT9OrvtVP/dW3s3c+UEx9fJF
+cLMAlWaVnuzK8T5WXCz/Ol5TXLP3/kj6wvz61997FpVXjIzLq14V7a1cuuZCS9vp
+yET3ktGHVxsHh98NnjjfF+g4YBSmPO9e1N9Yc6Tu28jbSVrYn36o9Nm++FjhgNF5
+bMWbL527DwavFL3MGm5Le1xaBj7vSMrtD8YK6l5sK1m/def299m5K8+U7Gl9lXHq
+UmTewNdAX8ragSczN07OHyrMHJ4YzFhAVuc97g3dzcz5sPlp7OXR/Z+K2stbc7vu
+bBnt/TZxPbkw2lxdINyuW44ON4HYbwg1Qu8=
+=pBJB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grooveplex
+
+==================================================================
